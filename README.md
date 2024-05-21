@@ -51,6 +51,8 @@ The Video Generator App is a Streamlit-based application that allows users to ge
 
 3. Enter the story topic and click "Generate Story" to get the story summary and script.
 
+<img width="1435" alt="Screenshot 2024-05-21 at 1 25 15 PM" src="https://github.com/langchain-tech/text-to-video-musicgen/assets/100914015/4f7384ab-e43e-458a-aaad-3c9e967374f2">
+
 4. Copy the generated Task ID and use it to download the video.
 
 ### Configuration
