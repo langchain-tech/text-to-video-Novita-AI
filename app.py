@@ -89,7 +89,7 @@ def generate_story_script(topic):
     response = chain.invoke({"topic": topic, "output_format": output_format})
     return response.content
 
-st.title("Story Narrator")
+st.title("Video Generator App")
 st.write("Enter a topic and get a story summary with a script!")
 
 topic = st.text_input("Enter the story topic:")
